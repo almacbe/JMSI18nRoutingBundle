@@ -1,13 +1,3 @@
-JMSI18nRoutingBundle [![Build Status](https://secure.travis-ci.org/schmittjoh/JMSI18nRoutingBundle.png?branch=master)](http://travis-ci.org/schmittjoh/JMSI18nRoutingBundle)
-====================
+DO NOT USE - UNMAINTAINED
 
-Documentation: 
-[Resources/doc](http://jmsyst.com/bundles/JMSI18nRoutingBundle)
-    
-
-Code License:
-[Resources/meta/LICENSE](https://github.com/schmittjoh/JMSI18nRoutingBundle/blob/master/Resources/meta/LICENSE)
-
-
-Documentation License:
-[Resources/doc/LICENSE](https://github.com/schmittjoh/JMSI18nRoutingBundle/blob/master/Resources/doc/LICENSE)
+This repo is linked to one, and only one of our projects. We don't use it anymore.
